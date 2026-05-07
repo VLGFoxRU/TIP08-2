@@ -140,13 +140,13 @@ jobs:
 ## Результаты выполнения (скриншоты)
 
 ### Успешный запуск пайплайна (вкладка Actions)
-![pipeline overview]()
+<img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/0ec4090e-8e5f-4d8f-8a7d-59e6712b8ebf" />
 
 ### Лог выполнения job `test-and-build`
-![test and build log]()
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/448119a0-6547-4e59-9e00-8f6a477fc20f" />
 
 ### Лог выполнения job `docker-build`
-![docker build log]()
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/9fac2473-ae93-4b87-add7-24f6d7155e8a" />
 
 ---
 
